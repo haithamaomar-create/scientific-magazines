@@ -1,0 +1,1 @@
+{\n  "name": "scientific-magazines",\n  "version": "1.0.0",\n  "description": "A project for handling scientific magazines.",\n  "main": "index.js",\n  "scripts": {\n    "start": "node server/index.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1"\n  }\n}
